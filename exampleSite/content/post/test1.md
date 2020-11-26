@@ -6,8 +6,6 @@ slug = "Test1"
 title = "Test1"
 
 +++
-![](/uploads/FJIMG_20191221_104723_1590363216544.jpg)hahahahahahahaha
+![](static/images/bg.jpg)
 
-* 1
-* 2
-* 3
+peteng!!!!
