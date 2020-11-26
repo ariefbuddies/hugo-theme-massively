@@ -18,5 +18,3 @@ fields:
 - type: textarea
   name: description
   label: description
-pages:
-- exampleSite/content/test1.md
