@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Massively"
+title = "Massive"
 baseURL = "https://compassionate-visvesvaraya-9c3ceb.netlify.app"
 theme = "hugo-theme-massively"
 googleanalytics = ""
