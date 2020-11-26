@@ -7,4 +7,6 @@ slug = "comments-example"
 title = "Contoh komen"
 
 +++
-at semper.![](/uploads/FJIMG_20191221_104723_1590363216544.jpg)
+at semper.
+
+![](https://raw.githubusercontent.com/ariefbuddies/hugo-theme-massively/master/images/FJIMG_20191221_104723_1590363216544.jpg)![](/uploads/FJIMG_20191221_104723_1590363216544.jpg)
